@@ -1,0 +1,4 @@
+matplotlib
+tf-keras
+deepface
+mediapipe==0.10.11
